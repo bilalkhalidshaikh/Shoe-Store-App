@@ -1,3 +1,2 @@
-## Shoe Store App
-# URL :
-[http://shoe-store-bybilal.surge.sh/]
+# React Shoe Store App
+## Deployed on : [http://shoe-store-bybilal.surge.sh/]
