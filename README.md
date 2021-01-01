@@ -1,4 +1,5 @@
-# React Shoe Store App
+# Expense Tracker App using React Hooks and Context API
 
+This is first Project of Bootcamp 2020
+```
 
-Deployed on : [http://shoe-store-bybilal.surge.sh/]
